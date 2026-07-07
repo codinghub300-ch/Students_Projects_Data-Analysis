@@ -1,28 +1,28 @@
-# 👩‍💻 Employee Salary Analysis
+#  Employee Salary Analysis
 
 This project was developed by a **Coding Hub Student** as part of the **Python Data Analysis Training Program**.
 
 ---
 
-## 👤 Student Information
+##  Student Information
 
 **Student Name:** Shahd Ali
 
 ---
 
-## 📂 Project Repository
+##  Project Repository
 
-🔗 https://github.com/oshahd909-prog/Employee-Project.git
-
----
-
-## 🚀 Live Demo
-
-🌐 https://employee-project-5gs5qrwktx4j3m5zasuhsz.streamlit.app/
+ https://github.com/oshahd909-prog/Employee-Project.git
 
 ---
 
-## 🛠 Technologies Used
+##  Live Demo
+
+ https://employee-project-5gs5qrwktx4j3m5zasuhsz.streamlit.app/
+
+---
+
+##  Technologies Used
 
 - Python
 - NumPy
@@ -33,7 +33,7 @@ This project was developed by a **Coding Hub Student** as part of the **Python D
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 The Employee Salary Analysis Dashboard provides interactive data analysis and visualization for employee salary data. The application includes dataset exploration, statistical summaries, employee filtering, NumPy operations, GroupBy analysis, and interactive charts built with Streamlit.
 
