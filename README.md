@@ -22,11 +22,19 @@ Each project demonstrates practical skills in data analysis, visualization, and 
 #  Available Projects
 
 ## 1) Employee Salary Analysis
-
 Analyze employee salaries, departments, performance, and workforce insights.
 
-Folder:
-`Employee_Salary_Analysis`
+Folder: `Employee_Salary_Analysis`
+
+## 2) Restaurant Tips Analysis
+Analyze restaurant bills, customer tipping behavior, spending patterns, and dining insights.
+
+Folder: `Restaurant_Tips_Analysis`
+
+## 3) Titanic Passenger Analysis
+Analyze Titanic passenger data, survival statistics, passenger demographics, and travel insights.
+
+Folder: `Titanic_Passenger_Analysis`
 
 ---
 
