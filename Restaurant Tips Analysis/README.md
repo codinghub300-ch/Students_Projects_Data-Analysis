@@ -56,7 +56,7 @@ The **Restaurant Tips Analysis Dashboard** provides interactive data analysis an
 
 ## 💙 Developed by Malak Mohamed
 
-### Coding Hub Python Data Analysis Training Program
+## Coding Hub Python Data Analysis Training Program
 
 © 2026 Coding Hub. All Rights Reserved.
 
