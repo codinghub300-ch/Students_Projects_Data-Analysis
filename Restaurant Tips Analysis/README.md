@@ -1,6 +1,6 @@
 #  Restaurant Tips Analysis
 
-This project was developed by a Coding Hub Student as part of the **Python Data Analysis Training Program.
+This project was developed by a Coding Hub Student as part of the Python Data Analysis Training Program.
 
 ---
 
